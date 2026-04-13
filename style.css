@@ -10,4 +10,5 @@ h2 {
 
 .sample img {
   width: 90px;
+  height: auto;
 }
